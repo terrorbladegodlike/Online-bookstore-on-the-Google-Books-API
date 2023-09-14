@@ -1,3 +1,12 @@
+Что установлено в проекте?
+SASS, Webpack, Webpack-dev-server, eslinter(отключён)
+
+Как запустить сборку?
+команда: npm run build
+
+Как запустить dev-server?
+команда: npm run start:dev
+
 ЗАДАНИЕ:
 
 В рамках проекта вам необходимо:
